@@ -1,0 +1,6 @@
+{
+  "name": "AI SEO Content Brief Generator",
+  "description": "Transform target keywords and business context into practical, writer-ready SEO content briefs following search-intent best practices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
